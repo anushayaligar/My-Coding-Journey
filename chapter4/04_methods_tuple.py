@@ -1,0 +1,13 @@
+a = ( 1,43,3234,56,67,"rohan",43, True ,"anu")
+print(a)
+print(type(a))
+
+no = a.count(43)
+print(no)
+t = (10, 20, 30, 40, 50,30)
+print(t.index(30)) 
+print(len(t))
+print(min(t))
+print(max(t))
+print(sorted(t))
+print(sum(t))
