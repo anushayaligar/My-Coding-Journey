@@ -1,0 +1,3 @@
+Welcome to Python file handling!
+myfile 
+anu is a good girl
